@@ -118,9 +118,9 @@ The bottom half of the page strengthens conversions using:
 
 ## Screenshots
 
-> Upload your images to the repository and paste the screenshot links below.
-
-<!-- I will add the exact image linking lines here after upload -->
+![Homepage / Hero Section](BLstudio%201.png)
+![Homepage / Hero Section](BLstudio%202.png)
+![Homepage / Hero Section](BLstudio%203.png)
 
 ---
 
